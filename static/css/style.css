@@ -1,0 +1,22 @@
+h4 {
+   color: #adb5bd;
+   margin-left: 0px;
+}
+h2 {
+    text-align: center;
+}
+table {
+    width: 70%; /* Ширина таблицы */
+}
+thead {
+    background: #dddddd;
+}
+tbody {
+    background: #eeeeff;
+}
+.finished {
+    background: #eeffee;
+}
+.not-finished {
+    background: #ffeeff;
+}
